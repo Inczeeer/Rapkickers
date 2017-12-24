@@ -34,6 +34,12 @@ body{
   display:inline-flex;
 
 }
+.copyright{
+  font-size: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+
+}
 
 
 .footer{
