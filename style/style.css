@@ -1,0 +1,42 @@
+body{
+  background-image: url(../img/background.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/*CORPS DE LA PAGE*/
+
+.title{
+  font-family: "Marker Felt";
+  font-size: 60px;
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 40vh;
+  transform: translateY(-50%);
+}
+.soon{
+  font-family: "Marker Felt";
+  font-size: 48px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+/*CSS FOOTER RESEAUX SOCIAUX*/
+
+
+
+.socialList-item{
+  display:inline-flex;
+
+}
+
+
+.footer{
+  text-align: center;
+  margin-top: 35vh;
+}
