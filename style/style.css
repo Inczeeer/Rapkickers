@@ -1,0 +1,38 @@
+
+
+body{
+  color: white;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+}
+
+h1{
+  font-family: "Marker Felt";
+  font-size: 60px;
+  color: #FFFFFF;
+}
+
+p{
+  font-family: "Marker Felt";
+  font-size: 30px;
+  color: white;
+}
+div.centre1 {
+    position:absolute;
+    left: 45%;
+    top: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: -100px; /* Cette valeur doit être la moitié négative de la valeur du width */
+    margin-top: -100px; /* Cette valeur doit être la moitié négative de la valeur du height */
+}
+
+div.centre2 {
+    position:absolute;
+    left: 55%;
+    top: 62%;
+    width: 200px;
+    height: 200px;
+    margin-left: -100px; /* Cette valeur doit être la moitié négative de la valeur du width */
+    margin-top: -100px; /* Cette valeur doit être la moitié négative de la valeur du height */
+  }
