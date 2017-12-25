@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 body{
@@ -36,3 +37,53 @@ div.centre2 {
     margin-left: -100px; /* Cette valeur doit être la moitié négative de la valeur du width */
     margin-top: -100px; /* Cette valeur doit être la moitié négative de la valeur du height */
   }
+=======
+body{
+  background-image: url(../img/background.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+/*CORPS DE LA PAGE*/
+
+.title{
+  font-family: "Marker Felt";
+  font-size: 60px;
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 40vh;
+  transform: translateY(-50%);
+}
+.soon{
+  font-family: "Marker Felt";
+  font-size: 48px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+/*CSS FOOTER RESEAUX SOCIAUX*/
+
+
+
+.socialList-item{
+  display:inline-flex;
+
+}
+.copyright{
+  font-size: 16px;
+  color: #ffffff;
+  font-family: 'Roboto';
+
+}
+
+
+.footer{
+  text-align: center;
+  margin-top: 35vh;
+}
+>>>>>>> bbe5db9a3670a8c98cad95ddb146760b7209e6bb
