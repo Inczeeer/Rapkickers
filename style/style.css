@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Marker Felt';
+    src: url('../fonts/MarkerFelt.woff2') format('woff2'),
+        url('../fonts/MarkerFelt.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 body{
   background-image: url(../img/background.jpg);
   background-attachment:fixed;
