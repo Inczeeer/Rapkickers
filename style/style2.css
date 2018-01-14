@@ -1,0 +1,17 @@
+body{
+  overflow: hidden;
+}
+
+.container{
+  display: block;
+}
+
+.link-beatImg{
+  width: 89vh;
+  border-right: 10px solid black;
+}
+
+.link-rapperImg{
+  width: 89vh;
+  float: right;
+}
